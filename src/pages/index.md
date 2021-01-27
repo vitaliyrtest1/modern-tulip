@@ -11,7 +11,9 @@ sections:
       who need a sleek, modern SaaS site.
 
 
-      !\[test]\(/images/hero.png)
+
+
+      ![](https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png)
     actions:
       - label: Learn More
         url: /features
