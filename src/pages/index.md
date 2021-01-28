@@ -120,6 +120,7 @@ seo:
     - name: 'og:title'
       value: ''
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: |+
+
 template: landing
 ---
