@@ -119,7 +119,7 @@ seo:
     - name: 'og:title'
       value: Test
     - name: 'og:description'
-      value: |+
-
+      value: |
+        Test
 template: landing
 ---
