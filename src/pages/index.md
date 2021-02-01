@@ -7,10 +7,8 @@ sections:
     image_alt: App preview
     title: This Is A Big Hero Headline
     content: >
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
-
-
+      Azimuth is the perfect theme for [developers](https://google.com),
+      designers and entrepreneurs who need a sleek, modern SaaS site.
 
 
       ![](https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png)
