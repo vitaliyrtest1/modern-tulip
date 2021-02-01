@@ -117,7 +117,7 @@ seo:
     - name: 'og:type'
       value: website
     - name: 'og:title'
-      value: Test
+      value: Test!
     - name: 'og:description'
       value: |
         Test
